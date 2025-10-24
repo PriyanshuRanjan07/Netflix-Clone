@@ -1,0 +1,16 @@
+.pop{
+    position: relative;
+    z-index: 2;
+}
+
+.rflex{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.cflex{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
